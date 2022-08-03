@@ -76,5 +76,5 @@ module.exports.endpointInfo=(arrayObj)=>{
         })
 
     })
-    console.log(endpoints['/login'].get.responses['200'].content['application/json'].schema);
+    return endpoints
 }

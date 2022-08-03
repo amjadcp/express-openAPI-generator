@@ -1,8 +1,5 @@
 # express-openAPI-generator
 
-# express-api-auto-doc
-
-
 <!-- ABOUT THE PROJECT -->
 
 ### ABOUT THE PROJECT
@@ -15,7 +12,7 @@ It is a tiny package to generate API documentation in swagger using JS file with
 
 1. Install
 ```sh
-npm i express-openAPI-generator swagger-ui-express
+npm i express-openapi3.0-generator swagger-ui-express
 ```
 
 
