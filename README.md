@@ -31,7 +31,7 @@ router.get('/api-docs', swaggerUi.setup(swaggerDocument));
 ```
 3. Create swagger.js file
 ```sh
-const { AutoDoc } = require('express-open-api-generator')
+const { AutoDoc } = require('express-openapi3-generator')
 
 const doc = new AutoDoc()
 

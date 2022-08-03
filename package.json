@@ -1,5 +1,5 @@
 {
-  "name": "express-open-api-generator",
+  "name": "express-openapi3-generator",
   "version": "1.0.0",
   "description": "It is a tiny package to generate API documentation in swagger using JS file with the help of \"swagger-ui-express\"",
   "main": "index.js",
